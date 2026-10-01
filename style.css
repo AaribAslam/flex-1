@@ -131,3 +131,15 @@ span{
     height: 25px;
     width: 25px;
 }
+
+.arrow-right{
+    position: relative;
+    left: 0px;
+    transition: 0.3s;
+}
+
+.arrow-right:hover{
+    position: relative;
+    left: 10px;
+    transition: 0.3s;
+}
